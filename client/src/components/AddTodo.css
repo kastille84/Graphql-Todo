@@ -1,0 +1,12 @@
+.add-todo {
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.add-todo .form-actions {
+  margin-top: 20px;
+}
+
+.add-todo .btn {
+  background-color: #01d1d1;
+}

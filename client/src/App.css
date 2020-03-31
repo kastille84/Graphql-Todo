@@ -1,0 +1,14 @@
+.App {
+ 
+}
+
+.App__title {
+  text-align: center;
+}
+.App__title h1 {
+  margin-bottom: 0px;
+}
+.App__title p {
+  margin-top: 0px;
+  font-weight: 600;
+}

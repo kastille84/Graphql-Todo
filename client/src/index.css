@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Button */
+.btn{
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 3px;
+  border:none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+  color: white;
+}
+
+/* FORM STYLING */
+.form-container {
+  width: 80%;
+  max-width: 500px;
+  margin:auto;
+  padding: 20px;
+  border: 1px solid #01d1d1;
+}
+
+.form-control {
+  margin-bottom: 10px;
+  text-align:center;
+}
+
+.form-control label,
+.form-control input {
+  display:block;
+}
+
+.form-control label {
+  margin-bottom: 10px;
+}
+.form-control input {
+  width: 80%;
+  max-width: 400px;
+  padding: 5px 3px;
+  margin:auto;
+}
+.form-control input[placeholder] {
+  text-align: center;
+}
+.form-actions {
+  text-align: center;
+}
